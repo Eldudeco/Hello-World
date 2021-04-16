@@ -1,2 +1,3 @@
 # Hello-World
 Guide for new repository
+trying to comlete the guide...
